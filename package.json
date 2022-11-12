@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "apii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" :"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelson19371/api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelson19371/api-rest/issues"
+  },
+  "homepage": "https://github.com/nelson19371/api-rest#readme",
+  "description": ""
 }
